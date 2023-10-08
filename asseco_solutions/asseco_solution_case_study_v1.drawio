@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-08T08:11:44.312Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" etag="CHDcNHvEVOI_jqa1hyog" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-08T08:12:39.892Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" etag="3mPZ9BEiL8_tARPmW3Rx" version="22.0.4" type="github">
   <diagram id="tyuZ9ulJ00VkShiqcGIR" name="Stránka-1">
     <mxGraphModel dx="1706" dy="1139" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -108,7 +108,7 @@
         <mxCell id="b86m0T5GuSQYJgRvHUSm-35" value="&lt;font&gt;Logout&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#007FFF;strokeWidth=3;fillStyle=auto;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="650" y="402.5" width="115" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="b86m0T5GuSQYJgRvHUSm-38" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=#000000;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=#000000;endArrow=classic;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="b86m0T5GuSQYJgRvHUSm-37" edge="1" target="b86m0T5GuSQYJgRvHUSm-32">
+        <mxCell id="b86m0T5GuSQYJgRvHUSm-38" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=#000000;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=#000000;endArrow=classic;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="b86m0T5GuSQYJgRvHUSm-37" target="b86m0T5GuSQYJgRvHUSm-32" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="270" y="350" as="targetPoint" />
             <Array as="points">
@@ -137,10 +137,10 @@
         <mxCell id="b86m0T5GuSQYJgRvHUSm-53" value="Nutno provést analýzu požadavků na login. Následně vypracovat procesní mapu loginu (FORM, FCB, AppleID, Google, atd.)" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Helvetica;fontSize=11;fillColor=none;strokeColor=#000000;fontColor=#000000;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="370" y="40" width="220" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="b86m0T5GuSQYJgRvHUSm-54" value="Příklad: Budu B2C platforma s potravinami. AI mně po loginu nabídne předvyplněný košík dle mých zvyklostí a historických nákupů a ročního období atd.&amp;nbsp;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Helvetica;fontSize=11;fillColor=none;strokeColor=#000000;fontColor=#000000;strokeWidth=2;position2=0.56;direction=west;labelBackgroundColor=default;endArrow=classic;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="10" y="370" width="180" height="100" as="geometry" />
+        <mxCell id="b86m0T5GuSQYJgRvHUSm-54" value="Příklad: Budu B2C platforma s potravinami. AI mně po loginu nabídne předvyplněný košík dle mých zvyklostí a historických nákupů a ročního období atd.&amp;nbsp;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Helvetica;fontSize=11;fillColor=none;strokeColor=#000000;fontColor=#000000;strokeWidth=3;position2=0.56;direction=west;labelBackgroundColor=none;endArrow=classic;rounded=0;spacing=2;" parent="1" vertex="1">
+          <mxGeometry x="10" y="370" width="180" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="b86m0T5GuSQYJgRvHUSm-55" value="Zde to na pozadí aplikace nekončí. Budou další procesy...." style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Helvetica;fontSize=11;fillColor=none;strokeColor=#000000;fontColor=#000000;strokeWidth=2;labelBackgroundColor=none;endArrow=classic;rounded=0;" parent="1" vertex="1">
+        <mxCell id="b86m0T5GuSQYJgRvHUSm-55" value="Zde to na pozadí aplikace nekončí. Budou další procesy...." style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Helvetica;fontSize=11;fillColor=none;strokeColor=#000000;fontColor=#000000;strokeWidth=3;labelBackgroundColor=none;endArrow=classic;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="560" y="320" width="250" height="82.5" as="geometry" />
         </mxCell>
         <mxCell id="b86m0T5GuSQYJgRvHUSm-65" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=#000000;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=#000000;endArrow=classic;" parent="1" source="b86m0T5GuSQYJgRvHUSm-56" target="b86m0T5GuSQYJgRvHUSm-57" edge="1">
@@ -281,7 +281,7 @@
           <mxGeometry x="70" y="260" width="140" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="AvYvzE_Yt6RH5DRUqN7c-31" value="SKLAD - převodka na distribuční sklad (virtuální, výdejní, expediční, auto, způsobů je X). Zde by i uživatel mohl objednávku stornovat. Viz např. systém na Alza.cz" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Helvetica;fontSize=11;fillColor=none;strokeColor=#000000;fontColor=#000000;strokeWidth=3;direction=south;size=20;position=0.22;" parent="1" vertex="1">
-          <mxGeometry x="1070" y="660" width="200" height="90" as="geometry" />
+          <mxGeometry x="1070" y="660" width="240" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
