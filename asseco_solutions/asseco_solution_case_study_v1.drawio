@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-08T08:12:39.892Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" etag="3mPZ9BEiL8_tARPmW3Rx" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-08T14:48:13.410Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" etag="CD4QFXAwVMh3qFhp5ejp" version="22.0.4" type="github" pages="2">
   <diagram id="tyuZ9ulJ00VkShiqcGIR" name="Stránka-1">
     <mxGraphModel dx="1706" dy="1139" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -282,6 +282,29 @@
         </mxCell>
         <mxCell id="AvYvzE_Yt6RH5DRUqN7c-31" value="SKLAD - převodka na distribuční sklad (virtuální, výdejní, expediční, auto, způsobů je X). Zde by i uživatel mohl objednávku stornovat. Viz např. systém na Alza.cz" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Helvetica;fontSize=11;fillColor=none;strokeColor=#000000;fontColor=#000000;strokeWidth=3;direction=south;size=20;position=0.22;" parent="1" vertex="1">
           <mxGeometry x="1070" y="660" width="240" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="3zLY_a6kHb1fwIaK2Pj7" name="Stránka-2">
+    <mxGraphModel dx="1405" dy="938" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="83OAjdzvvMaXIqN7D3os-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Start&lt;br&gt;procesu&lt;br&gt;&lt;/font&gt;" style="strokeWidth=3;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=none;strokeColor=#b85450;fillStyle=auto;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iGd0fVxS_imvgxyrdcrS-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Konec procesu&lt;/font&gt;" style="strokeWidth=3;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=none;strokeColor=#b85450;fillStyle=auto;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="972.5" y="420" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t9As9oRI9gzyeVlpA5IO-1" value="&lt;font&gt;Regresivní &lt;br&gt;webová aplikace&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#007FFF;strokeWidth=3;fillStyle=auto;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="27.5" y="150" width="115" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XJSs3fCkRyb5jJcJYdSm-1" value="&lt;font&gt;Registrovaný&amp;nbsp;&lt;br&gt;užvatel?&lt;br&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#82b366;strokeWidth=3;fillStyle=auto;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="210" y="122.5" width="120" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="wCMuzjsILqRFhIDKQ2M_-1" value="Nutno provést analýzu požadavků na login. Následně vypracovat procesní mapu loginu (FORM, FCB, AppleID, Google, atd.)" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Helvetica;fontSize=11;fillColor=none;strokeColor=#000000;fontColor=#000000;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="370" y="40" width="220" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
