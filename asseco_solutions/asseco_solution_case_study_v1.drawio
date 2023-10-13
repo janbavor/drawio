@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-13T05:24:12.330Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" etag="FlzgCAF9rxKDAIi0KP_y" version="22.0.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-10-13T05:58:20.280Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" etag="AFIaC6zkNzkUy1yKLNeD" version="22.0.4" type="github" pages="3">
   <diagram id="tyuZ9ulJ00VkShiqcGIR" name="Stránka-1">
     <mxGraphModel dx="1022" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -287,7 +287,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3zLY_a6kHb1fwIaK2Pj7" name="Stránka-2">
-    <mxGraphModel dx="1194" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1460" dy="991" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -309,7 +309,7 @@
         <mxCell id="oE0jX8ANXpIXpqb9dFIa-9" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=#000000;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=#000000;endArrow=classic;" parent="1" source="t9As9oRI9gzyeVlpA5IO-1" target="oE0jX8ANXpIXpqb9dFIa-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="t9As9oRI9gzyeVlpA5IO-1" value="Požadavek na&amp;nbsp;&lt;br&gt;nýkup" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#007FFF;strokeWidth=3;fillStyle=auto;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="t9As9oRI9gzyeVlpA5IO-1" value="Požadavek na&amp;nbsp;&lt;br&gt;nákup" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#007FFF;strokeWidth=3;fillStyle=auto;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="27.5" y="250" width="115" height="50" as="geometry" />
         </mxCell>
         <mxCell id="oE0jX8ANXpIXpqb9dFIa-11" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=default;strokeColor=#000000;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=#000000;endArrow=classic;" parent="1" source="XJSs3fCkRyb5jJcJYdSm-1" edge="1">
@@ -353,7 +353,7 @@
         <mxCell id="oE0jX8ANXpIXpqb9dFIa-3" value="Automatizovaný požadavek při poklesu skladového &amp;nbsp;množství pod stanvenou hranici" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#007FFF;strokeWidth=3;fillStyle=auto;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="210" y="240" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="oE0jX8ANXpIXpqb9dFIa-6" value="Objednávka - eshop&lt;br&gt;objednaný položka není skladem" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#007FFF;strokeWidth=3;fillStyle=auto;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="oE0jX8ANXpIXpqb9dFIa-6" value="Objednávka - eshop&lt;br&gt;objednaná položka není skladem" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#007FFF;strokeWidth=3;fillStyle=auto;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="210" y="330" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oE0jX8ANXpIXpqb9dFIa-21" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=#000000;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=#000000;endArrow=classic;" parent="1" source="oE0jX8ANXpIXpqb9dFIa-16" target="oE0jX8ANXpIXpqb9dFIa-19" edge="1">
